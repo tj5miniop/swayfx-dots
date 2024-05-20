@@ -112,10 +112,10 @@ exec --no-startup-id bash ~/.config/polybar/launch.sh --hack
 # set $ws4 "4: File Manager"
 
 # switch to workspace
-#bindsym $mod+1 workspace $ws1
-#bindsym $mod+2 workspace $ws2
-#bindsym $mod+3 workspace $ws3
-#bindsym $mod+4 workspace $ws4
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
 
 
 
