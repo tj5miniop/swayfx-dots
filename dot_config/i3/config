@@ -89,7 +89,7 @@ exec_always --no-startup-id feh --bg-scale ~/wallpapers/neon.png
 
 
 # Polybar with hack theme
-exec --no-startup-id bash ~/.config/polybar/launch.sh --hack
+exec --no-startup-id bash ~/.config/polybar/hack/launch.sh
 # setting variables for later use
 # use xrandr and/or arandr to know the names of your monitors
 # use this line to tell which monitor is on the right
