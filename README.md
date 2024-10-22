@@ -1,4 +1,9 @@
-These are my i3 dotfiles - 
+### Im currently working on migrating my workflow over to swayfx as i3 (still) is my favourite window manager, but many of my apps require wayland support. 
 
+# i'm hoping to include 2 themes -
 
-I'm currently on Qtile (xorg and wayland) so I probably won't be maintaining these for a while
+## Nordic (using the nordic gtk theme)
+
+## Dracula (using dracula gtk theme)
+
+at this current time, I can only get lxqt's polkit working, but I should be able to get xfce/cosmic/cinnamon working. 
